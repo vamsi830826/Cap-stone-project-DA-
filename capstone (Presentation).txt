@@ -1,0 +1,173 @@
+Great 👍 I checked your uploaded PDF structure.
+Now I’m converting **that Healthcare Analytics Project format** into your **Pizza Sales Dashboard Project Documentation** – ready to use for PPT or PDF.
+
+---
+
+# 🍕 Pizza Sales Analytics Project
+
+---
+
+## 1️⃣ Project Overview
+
+**Goal:**
+Analyze pizza sales data to improve revenue, customer demand planning, and operational efficiency.
+
+**Focus Areas:**
+
+* Orders
+* Pizza categories
+* Revenue
+* Quantity sold
+* Time-based trends
+* Customer buying patterns
+
+**KPIs designed to support data-driven business decisions for restaurant growth.**
+
+---
+
+## 2️⃣ Business Objectives
+
+* Understand total sales performance
+* Identify best-selling and worst-selling pizzas
+* Analyze peak order times (daily & monthly trends)
+* Monitor category performance (Veg / Non-Veg / Classic / Supreme)
+* Improve profitability using data insights
+
+---
+
+## 3️⃣ Data Sources
+
+* Order Details (Order ID, Date, Time)
+* Pizza Details (Name, Size, Category, Price)
+* Sales Data (Quantity, Total Price)
+
+**Tools Used:**
+
+* SQL (Data extraction & KPI calculation)
+* Excel (Validation & Pivot tables)
+* Power BI (Interactive Dashboard)
+* Tableau (Optional Visualization)
+
+---
+
+## 4️⃣ List of KPIs
+
+### 🍕 Sales KPIs
+
+* Total Revenue
+* Total Orders
+* Total Pizzas Sold
+* Average Order Value
+* Average Pizzas per Order
+
+---
+
+### 📊 Category & Product KPIs
+
+* Revenue by Pizza Category
+* Revenue by Pizza Size
+* Top 5 Best-Selling Pizzas
+* Bottom 5 Pizzas
+* % Contribution by Category
+
+---
+
+### ⏰ Time-Based KPIs
+
+* Sales by Month
+* Sales by Day
+* Sales by Hour
+* Peak Order Time
+
+---
+
+## 5️⃣ Dashboard
+
+### 🟢 Excel Dashboard
+
+Used for pivot tables and quick KPI summaries.
+
+### 🔵 SQL Work
+
+Used for:
+
+* Data cleaning
+* Revenue calculation
+* Aggregations
+* Group by analysis
+* Ranking queries (Top 5 / Bottom 5)
+
+### 🟡 Power BI Dashboard
+
+Used for:
+
+* Interactive filters
+* KPI Cards
+* Time trend analysis
+* Category breakdown
+
+---
+
+## 6️⃣ Key Insights
+
+* 🍕 Most revenue comes from **large-sized pizzas**
+* 📅 Weekends show higher sales compared to weekdays
+* 🕒 Evening hours (6 PM – 9 PM) are peak order times
+* 🥇 A few top pizzas generate majority of revenue (Pareto effect)
+* 📉 Some pizzas contribute very low revenue and can be optimized
+
+---
+
+## 7️⃣ Recommendations
+
+* Increase promotion of top-selling pizzas
+* Bundle low-selling pizzas with combos
+* Increase staff during peak hours
+* Optimize pricing strategy for medium-size pizzas
+* Run seasonal campaigns during low-sales months
+
+---
+
+## 8️⃣ Conclusion
+
+* Pizza Sales KPIs provide complete business visibility
+* Data analytics improves profitability and operational efficiency
+* Dashboard helps management make faster data-driven decisions
+
+---
+
+# 📊 Example Dashboard Visual Structure
+
+## Power BI Style Dashboard
+
+![Image](https://user-images.githubusercontent.com/113992933/229295013-b245afa1-e8f0-460d-9022-6985de4a1bfe.png)
+
+![Image](https://miro.medium.com/v2/resize%3Afit%3A1400/1%2AuQ8vYB6584p-O9i46eDuMA.png)
+
+![Image](https://media.licdn.com/dms/image/v2/D4D12AQHw2LOSJfEYOA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1712422107930?e=2147483647\&t=2bcE6Sfz60XzAz2gEqflw-yTFMGxSPTIz02na2IdvYY\&v=beta)
+
+![Image](https://f2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io/cdn-cgi/image/w%3D%2Ch%3D%2Cf%3Dauto%2Cdpr%3D1%2Cfit%3Dcontain/f1707165557161x713389579500037100/Pizza.JPG)
+
+---
+
+## Tableau Style Dashboard
+
+![Image](https://f2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io/cdn-cgi/image/w%3D%2Ch%3D%2Cf%3Dauto%2Cdpr%3D1%2Cfit%3Dcontain/f1707165557161x713389579500037100/Pizza.JPG)
+
+![Image](https://public.tableau.com/static/images/Re/RestaurantSalesDashboard/SalesDashboard/4_3.png)
+
+![Image](https://storage.googleapis.com/kaggle-datasets-images/7662611/12166313/8c4a47082b4e5d80a418dacdc8465be7/dataset-card.PNG?t=2025-06-14-16-56-44)
+
+![Image](https://public.tableau.com/static/images/Pi/Pizza_Sales_Report_17110965193110/Home/4_3.png)
+
+---
+
+If you want, I can now:
+
+* 📄 Convert this into **ready-to-download PDF content format**
+* 📊 Create a **PowerPoint slide structure**
+* 🧾 Give you **SQL queries for all KPIs**
+* 📈 Create a **complete Power BI dashboard layout explanation**
+* 💼 Prepare a **project explanation for interview (5–7 minutes)**
+
+Tell me what you need next 👍
